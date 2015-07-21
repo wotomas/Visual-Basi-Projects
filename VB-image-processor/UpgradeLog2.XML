@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mdiform">
+</Property><Property Name="Solution File" Value="C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\mdiform.sln">
+</Property><Property Name="User Options File" Value="C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\mdiform.suo">
+</Property><Property Name="Date" Value="2015년 7월 12일 일요일">
+</Property><Property Name="Time" Value="오후 12:55">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mdiform.sln" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\mdiform.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mdiform.suo" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\mdiform.suo">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="mdiform.vbproj" Description="Project file successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\mdiform.vbproj">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="mdiform.vbproj.user" Description="Project user file successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\mdiform.vbproj.user">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmBgRemoval.designer.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmBgRemoval.designer.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmBgRemoval.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmBgRemoval.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmEdge.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmEdge.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmEffect.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmEffect.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmHistogram.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmHistogram.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmImage.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmImage.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmKernel.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmKernel.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmMain.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmMelt.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmMelt.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRipple.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRipple.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRotate.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRotate.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRoughen.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRoughen.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmSpatialEffect.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmSpatialEffect.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="modImage.vb" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\modImage.vb">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="image_processing.vbproj" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\image_processing.vbproj">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmBgRemoval.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmBgRemoval.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmEdge.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmEdge.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmEffect.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmEffect.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmHistogram.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmHistogram.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmImage.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmImage.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmKernel.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmKernel.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmMain.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmMelt.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmMelt.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRipple.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRipple.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRotate.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRotate.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmRoughen.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmRoughen.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="frmSpatialEffect.resx" Description="File successfully backed up as C:\Users\kim\Downloads\a2_start_su2015\mdi_vb_net\Backup\frmSpatialEffect.resx">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="mdiform.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mdiform" Source="mdiform.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mdiform.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mdiform.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mdiform" Source="mdiform.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
