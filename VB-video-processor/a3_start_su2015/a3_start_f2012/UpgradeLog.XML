@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="video_processing">
+</Property><Property Name="Solution File" Value="C:\Users\sun\Desktop\a3_start_f2011\video_processing.sln">
+</Property><Property Name="User Options File" Value="C:\Users\sun\Desktop\a3_start_f2011\video_processing.v11.suo">
+</Property><Property Name="Date" Value="2012年11月24日">
+</Property><Property Name="Time" Value="10:21">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="video_processing.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="video_processing.sln" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\video_processing.sln">
+</Event><Event ErrorLevel="0" Project="" Source="video_processing.v11.suo" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\video_processing.v11.suo">
+</Event><Event ErrorLevel="3" Project="video_processing" Source="video_processing.vbproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="video_processing.vbproj" Description="Project file successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\video_processing.vbproj">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="video_processing.vbproj.user" Description="Project user file successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\video_processing.vbproj.user">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmTimeShift.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmTimeShift.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="KeyframeSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\KeyframeSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmKeyframe.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmKeyframe.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMelt.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMelt.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="MeltSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\MeltSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmTransition.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmTransition.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="TimeShiftSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\TimeShiftSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="TransitionSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\TransitionSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="FadeInSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\FadeInSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="FadeOutSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\FadeOutSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmFadeIn.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmFadeIn.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmFadeOut.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmFadeOut.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMain.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMotionBlur.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMotionBlur.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="modEffect.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\modEffect.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="modGraph.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\modGraph.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="modVideo.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\modVideo.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="MotionBlurSettings.vb" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\MotionBlurSettings.vb">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="mpeg2dec.exe" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\mpeg2dec.exe">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="mpeg2enc.exe" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\mpeg2enc.exe">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmKeyframe.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmKeyframe.resx">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMelt.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMelt.resx">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmTimeShift.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmTimeShift.resx">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmTransition.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmTransition.resx">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmFadeIn.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmFadeIn.resx">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmFadeOut.resX" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmFadeOut.resX">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMain.resX" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMain.resX">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="frmMotionBlur.resx" Description="File successfully backed up as C:\Users\sun\Desktop\a3_start_f2011\Backup\frmMotionBlur.resx">
+</Event><Event ErrorLevel="1" Project="video_processing" Source="video_processing.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="video_processing.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="video_processing" Source="video_processing.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="video_processing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="video_processing.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="video_processing" Source="video_processing.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
